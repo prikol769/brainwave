@@ -13,12 +13,13 @@
 
   <h3 align="center">Modern UI/UX website</h3>
   
-  <h2 align="center">
+  <h4 align="center">
         Preview: 
         <a href="https://brainwave-gold.vercel.app" target="_blank">
                     https://brainwave-gold.vercel.app
         </a>
-    </h2>
+    </h4>
+     <br />
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
